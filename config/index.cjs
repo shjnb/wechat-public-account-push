@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oOkDB6vHbaBaGyX68jpuENd9QvLA',
+      id: 'oOkDB6jdnikJyWEn8D3Zqw067eA0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'xY1DBzxOjqw502uaDoGUxeGG3nokDjsi39g4OI1rof4',
+      useTemplateId: '		hWKXNTTA1ZWha3vYTnrujYCbSWR5bvz3lB5syRiQN1o',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-05',
       festivals: [
@@ -45,7 +45,9 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2023-07-23' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2023-07-23' },
+        { keyword: 'marry_day', date: '2022-01-25' },
+
+  
       ],
     },
   ],
